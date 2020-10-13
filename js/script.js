@@ -1,1 +1,1 @@
-console.log('HEllo GIT COMMIT!')
+console.log('HEllo GIT COMMIT z przytupem!')
